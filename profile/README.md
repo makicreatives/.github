@@ -29,8 +29,8 @@ Visit our website for more.
 <a href="https://code.visualstudio.com/"><img width="48" height="48" title="visit Vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 <a href="https://wordpress.com/"><img width="48" height="48" title="visit Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></a>
 <a href="https://www.blender.org/"><img width="48" height="48" title="visit Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /></a>
-<a href="https://www.claude.ai/"><img width="48" height="48" title="visit Claude" src="https://api.iconify.design/logos:claude-icon.svg" /></a>
-<a href="https://www.notion.so/"><img width="48" height="48" title="visit Notion" src="https://api.iconify.design/logos:notion-icon.svg" /></a>
+<a href="https://www.claude.ai/"><img width="48" height="48" title="visit Claude" src="./claude-logo.svg" /></a>
+<a href="https://www.notion.so/"><img width="48" height="48" title="visit Notion" src="./notion-logo.svg" /></a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve"><img width="48" height="48" title="visit DaVinci Resolve" src="https://raw.githubusercontent.com/maki-studio/.github/75384df9ea92f3c8e1fa20ae6b67ea5de111a99b/profile/davinci-resolve-logo.svg" /></a>
 
 </div>
